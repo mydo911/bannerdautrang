@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.facebook.com/thietkethicongbanghieupro/' target='_blank'><img src='http://4.bp.blogspot.com/-YFozwS8cXvU/W-L2jxmQ3zI/AAAAAAAAAdU/zQ1hCJsMRTEHTrE9B9dU5-5WowDU1q6awCK4BGAYYCw/s400/37367109_2069612113256255_5877299106874916864_n.jpg' width='500px'/><br/>Thiết Kế Thi Công Bảng HIệu</a>. Tư vấn miễn phí: 0902932539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.facebook.com/thietkethicongbanghieupro/' target='_blank'><img src='http://3.bp.blogspot.com/-jAPx1F9B2es/XDA9ftp2-rI/AAAAAAAAAg4/-sqDaBf83tYi4-26Iwb4oiz6CKAhGArvACK4BGAYYCw/s1600/z1231859102338_c99aa7d2c9201b228baff758e36a817b.jpg' width='500px'/><br/>Thiết Kế Thi Công Bảng HIệu</a>. Tư vấn miễn phí: 0902932539. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
